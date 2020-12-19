@@ -1,4 +1,4 @@
-# mo
+# vue
 
 ## Project setup
 ```
